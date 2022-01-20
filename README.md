@@ -7,7 +7,7 @@
 2. Run jupyter note book
 3. Run Analyze_ab_test_results_notebook.ipynb notebook and restart the kennel to rerun the code. 
 
-### Purpose
+### Purpose and outcome
 
 For this project, I was working to understand the results of an A/B test run by an e-commerce website. My goal was to 
 help the company understand if they should implement the new retail page , keep the old retail page, or perhaps run the 
@@ -17,4 +17,4 @@ I performed a hypothesis test, H0: new_page is less than or equals to old_page H
 Type I error rate of 5% and the results showed that they would get more sales and customers from their existing old page. 
 
 I also investigated the interaction of some other variable like the country of the client and the conversion rate of that citizen 
-visiting their web page and converting/subsscribing to their productst to see if that was a contributiing factor.  
+visiting their web page and converting/subsscribing to their productst to see if that was a contributiing factor.  I found out that the country a person is from is a significant factor of their conversion depending on what landing page the got (new vs old). People of certain countries prefered one over the other. 
