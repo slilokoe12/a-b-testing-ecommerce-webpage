@@ -7,7 +7,7 @@
 2. Run jupyter note book
 3. Run Analyze_ab_test_results_notebook.ipynb notebook and restart the kennel to rerun the code. 
 
-### 
+### Purpose
 
 For this project, I was working to understand the results of an A/B test run by an e-commerce website. My goal was to 
 help the company understand if they should implement the new retail page , keep the old retail page, or perhaps run the 
